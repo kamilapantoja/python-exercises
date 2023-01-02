@@ -1,4 +1,4 @@
-# Calcule a média aritmética dos valores contidos em uma lista
+# 2-Calcule a média aritmética dos valores contidos em uma lista
 
 def media(numbers):
     total = 0
